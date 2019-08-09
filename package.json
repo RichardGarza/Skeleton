@@ -1,7 +1,7 @@
 {
-  "name": "Up&ComingHits",
+  "name": "Skeleton",
   "version": "1.0.0",
-  "description": "A site for the latest GOOD music.",
+  "description": "A skeleton to build a full stack Node.js app",
   "main": "src/server.js",
   "scripts": {
     "test": "clear && set NODE_ENV=test&& jasmine",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RichardGarza/Up&ComingHits"
+    "url": "git+https://github.com/RichardGarza/Skeleton"
   },
   "author": "Richard Garza",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RichardGarza/Up&ComingHits/issues"
+    "url": "https://github.com/RichardGarza/Skeleton/issues"
   },
-  "homepage": "https://github.com/RichardGarza/Up&ComingHits#readme",
+  "homepage": "https://github.com/RichardGarza/Skeleton#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
